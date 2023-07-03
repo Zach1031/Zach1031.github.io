@@ -167,6 +167,14 @@ input, select, textarea {
 		font-weight: 600;
 	}
 
+	.box-p {
+		text-shadow:
+        0.07em 0 black,
+        0 0.07em black,
+        -0.07em 0 black,
+        0 -0.07em black;
+	}
+
 	h1 {
 		font-size: 2.75em;
 		font-weight: 700;
